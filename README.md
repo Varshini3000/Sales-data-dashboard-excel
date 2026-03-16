@@ -1,29 +1,20 @@
 # Sales Data Analysis Dashboard
 
-This project analyzes sales data and visualizes key business insights using MS Excel.
+This project analyzes sales data and presents insights using MS Excel dashboards.
 
 ## Tools Used
 - MS Excel
 - Pivot Tables
-- Charts
 - Data Visualization
 
-## Project Objectives
-- Analyze sales performance
-- Identify top selling products
-- Understand city-wise profit distribution
-- Evaluate salesperson performance
+## Project Description
+The dashboard provides insights into sales trends, product categories, and city-wise profit distribution.
 
-## Dashboard Insights
-- Total sales and product quantity analysis
-- Category-wise sales comparison
-- City-wise profit trends
-- Salesperson performance tracking
+## Project Access
+Due to file size, the project files are available through Google Drive.
 
-## Files in Repository
-Sales_Dashboard.xlsx – Interactive Excel dashboard  
-sales_dataset.xlsx – Dataset used for analysis  
-dashboard_screenshot.png – Dashboard preview
+Google Drive Link:
+https://drive.google.com/drive/folders/1Hu9zg3KGy1N7fZHmclrVuXz1gFDGvdW5?usp=sharing
 
 ## Author
 Divya Varshini
